@@ -39,6 +39,8 @@ app.*.symbols
 *.mp4
 *.pdf
 *.docx
+android/app/google-services.json
+
 
 # Obfuscation related
 app.*.map.json
